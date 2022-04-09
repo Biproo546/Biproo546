@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Biproo546
 - 👀 I’m interested in ...Python
 - 🌱 I’m currently learning ...C,C++
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Python
 - 📫 How to reach me ...https://www.linkedin.com/in/bipro546/
 
 <!---
